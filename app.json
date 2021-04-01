@@ -1,7 +1,7 @@
 {
-  "name": "Friday-Userbot",
+  "name": "Saviour_Coder-Userbot",
   "description": "A Userbot Based On Pyrogram.",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  "logo": "https://telegra.ph/file/889e66c39d5078dac0795.jpg",
   "keywords": [
     "telegram",
     "fridaybot",
@@ -9,9 +9,9 @@
     "fridaybot",
     "productivity"
   ],
-  "repository": "https://github.com/starkgang/FridayUserbot",
-  "website": "t.me/fridayot",
-  "success_url": "t.me/FridayOT",
+  "repository": "https://github.com/idkgj1233/Saviour_coder_Userbot0",
+  "website": "https://t.me/UC_bot_channel",
+  "success_url": "https://t.me/UC_bot_channel",
   "stack": "container",
   "env": {
     "API_ID": {
@@ -56,7 +56,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "Your Upstream URL HERE. If You're Beginner, Don't Change This.",
-      "value": "https://github.com/DevsExpo/FridayUserBot",
+      "value": "https://github.com/idkgj1233/Saviour_coder_Userbot0",
       "required": false
     },
     "BOT_TOKEN": {
