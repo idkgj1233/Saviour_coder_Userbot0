@@ -10,10 +10,10 @@
 
 # String Session - Pyrogram 🖱
 ### Repl 🧨
-[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://repl.it/@TeamUltroid/UltroidStringSession#main.py)
+[![Run on Repl.it](https://repl.it/badge/github/STARKGANG/friday)](https://replit.com/@MIDHUNKMKM/StringGen)
 ### Locally 🏆
 ```
-$ git clone https://github.com/idkgj1233/Saviour_coder_Userbot
+$ git clone https://github.com/idkgj1233/Saviour_coder_Userbot0
 $ cd FridayUserbot
 $ python(3) string_gen.py
 ```
@@ -22,12 +22,12 @@ $ python(3) string_gen.py
 
 ### Deploying To Heroku ⚙
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/Saviour_coder_Userbot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/Saviour_coder_Userbot0)
 
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First // (Else You Can Download And Upload to Your Local Server)
-$ git clone https://github.com/idkgj1233/Saviour_coder_Userbot
+$ git clone https://github.com/idkgj1233/Saviour_coder_Userbot0
 # Open Git Cloned File
 $ cd FridayUserbot
 # Install All Requirements 
